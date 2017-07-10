@@ -1,0 +1,13 @@
+main=eu.iamgio.base.Base
+commands-package=eu.iamgio.base.commands
+
+clear=Clear
+cd=Cd
+ls=Ls
+rm=Rm
+mkdir=Mkdir
+np=Np
+mv=Mv
+zip=Zip
+unzip=Unzip
+end=End
